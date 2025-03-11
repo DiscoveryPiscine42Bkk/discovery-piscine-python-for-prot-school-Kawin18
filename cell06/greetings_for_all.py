@@ -1,5 +1,5 @@
-def greetings(name="kawin Muechaiyapoomi"):
 
+def greetings(name="kawin muechaiuapoomi"):
     if isinstance(name, str):
         print(f"Hello, {name}.")
     else:
